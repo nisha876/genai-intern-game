@@ -42,3 +42,5 @@ c. Ensure the assistant replies within bounded logic and scoring parameters.
 
 Prompts include metadata (difficulty, category) to adaptively scale with player progress.
 
+![Screenshot 2025-05-05 003031](https://github.com/user-attachments/assets/ef808a85-c1ef-48c5-9278-de15b7b8b4ab)
+

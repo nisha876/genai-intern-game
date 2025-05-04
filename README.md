@@ -44,3 +44,5 @@ Prompts include metadata (difficulty, category) to adaptively scale with player 
 
 ![Screenshot 2025-05-05 003031](https://github.com/user-attachments/assets/ef808a85-c1ef-48c5-9278-de15b7b8b4ab)
 
+![Screenshot 2025-05-05 003143](https://github.com/user-attachments/assets/baf0d8f9-8dbc-4023-a4bb-84f46043b128)
+
